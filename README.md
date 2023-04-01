@@ -1,7 +1,7 @@
 Hi 👋 My name is Otso Leppälä
 =============================
 
-Front And Backend Developer
+Software Developer
 ---------------------------
 
 I have been programming for over ten years. I started with HTML and CSS. My first real programming language was Java and it still is my favorite language. I have also experience in C, C++, JavaScript, and Python.
