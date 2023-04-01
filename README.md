@@ -11,4 +11,3 @@ I have been programming for over ten years. I started with HTML and CSS. My firs
 *   🧠  I'm learning C#, C++, Networking, Algorithms, Docker
 *   🤝  I'm open to collaborating on Java projects
 *   ⚡  Next summer will be great!### Skills 
-
