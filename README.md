@@ -10,7 +10,7 @@ I have been programming for over ten years. I started with HTML and CSS. My firs
 * ✉️  You can contact me at [otso.leppala@gmail.com](mailto:otso.leppala@gmail.com)
 * 🧠  I'm learning C#, C++, Networking, Algorithms, Docker
 * 🤝  I'm open to collaborating on Java projects
-* ⚡  Next summer will be great!
+* ⚡  Next winter will be great!
 
 ### Skills
 
