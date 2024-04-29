@@ -4,12 +4,12 @@ Hi 👋 My name is Otso Leppälä
 Software Developer
 ---------------------------
 
-I have been programming for over ten years. I started with HTML and CSS. My first real programming language was Java and it still is my favorite language. I have also experience in C, C++, JavaScript, and Python.
+I have been programming for over ten years. I started with HTML and CSS. My first real programming language was Java and Python is my favorite language. I also have experience in C, C#, C++ and JavaScript.
 
 * 🌍  I'm based in Finland
 * ✉️  You can contact me at [otso.leppala@gmail.com](mailto:otso.leppala@gmail.com)
 * 🧠  I'm learning Data Engineering
-* 🤝  I'm open to collaborating on Python projects
+* 🤝  I'm open to collaborating on Python and Data Engineering projects
 * ⚡  Next winter will be great!
 
 ### Skills
